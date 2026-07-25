@@ -19,3 +19,7 @@ escrever nenhuma linha de código de programação.
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a licença [Creative Commons Attribution 4.0 International](LICENSE).
